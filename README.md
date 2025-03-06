@@ -53,5 +53,5 @@ This project is licensed under the MIT License, allowing modifications and contr
 # 🔗 Contact & Support
 For inquiries, suggestions, or collaboration opportunities:
 ## 📧 Email: shantoahmed35@gmail.com
-## 🔗 GitHub: [Your GitHub Profile](https://github.com/ShantoAhmed35)
+## 🔗 GitHub: https://github.com/ShantoAhmed35
 
