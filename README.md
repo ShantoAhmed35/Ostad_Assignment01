@@ -13,29 +13,29 @@ A Command-Line Interface (CLI) application designed for managing a bookstore. Th
 
 
 # 📂 Project Structure
-Main Program – Controls the flow of the application.
-Add Book Module – Handles the addition of books and ensures uniqueness.
-View Books Module – Displays all stored books in an organized format.
-Remove Book Module – Allows users to remove books by ISBN.
-Data Handling Module – Manages data storage and retrieval from a JSON file.
-Utility Functions – Provides helper functions for validation and error handling.
+1. Main Program – Controls the flow of the application.
+2. Add Book Module – Handles the addition of books and ensures uniqueness.
+3. View Books Module – Displays all stored books in an organized format.
+4. Remove Book Module – Allows users to remove books by ISBN.
+5. Data Handling Module – Manages data storage and retrieval from a JSON file.
+6. Utility Functions – Provides helper functions for validation and error handling.
 
 
 # 🔄 Workflow of the System
-1️⃣ Load Books from Storage – When the system starts, it retrieves book records from the JSON file.
-2️⃣ Display Menu Options – The user is presented with an interactive menu for managing books.
-3️⃣ Perform User Actions – Based on the selected option, the system performs operations like adding, viewing, or removing books.
-4️⃣ Save Changes Automatically – Any modifications made are immediately saved to the JSON file.
-5️⃣ Exit Safely – The program ensures data integrity before closing.
+1️. Load Books from Storage – When the system starts, it retrieves book records from the JSON file.
+2️. Display Menu Options – The user is presented with an interactive menu for managing books.
+3️. Perform User Actions – Based on the selected option, the system performs operations like adding, viewing, or removing books.
+4️. Save Changes Automatically – Any modifications made are immediately saved to the JSON file.
+5️. Exit Safely – The program ensures data integrity before closing.
 
 
 
 # 📌 User Journey
-1️⃣. Opening the System – The user is greeted with a welcome message and the main menu.
-2️⃣. Adding a New Book – The user enters the book details, which are validated and stored.
-3️⃣. Viewing Books – The user can see a structured list of all stored books.
-4️⃣. Removing a Book – The user enters the ISBN of a book to delete it from the system.
-5️⃣. Exiting the System – The program securely saves all data before closing.
+1️. Opening the System – The user is greeted with a welcome message and the main menu.
+2️. Adding a New Book – The user enters the book details, which are validated and stored.
+3️. Viewing Books – The user can see a structured list of all stored books.
+4️. Removing a Book – The user enters the ISBN of a book to delete it from the system.
+5️. Exiting the System – The program securely saves all data before closing.
 
 
 
