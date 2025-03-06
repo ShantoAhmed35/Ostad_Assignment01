@@ -22,20 +22,20 @@ A Command-Line Interface (CLI) application designed for managing a bookstore. Th
 
 
 # 🔄 Workflow of the System
-1️. Load Books from Storage – When the system starts, it retrieves book records from the JSON file.
-2️. Display Menu Options – The user is presented with an interactive menu for managing books.
-3️. Perform User Actions – Based on the selected option, the system performs operations like adding, viewing, or removing books.
-4️. Save Changes Automatically – Any modifications made are immediately saved to the JSON file.
-5️. Exit Safely – The program ensures data integrity before closing.
+1. Load Books from Storage – When the system starts, it retrieves book records from the JSON file.
+2. Display Menu Options – The user is presented with an interactive menu for managing books.
+3. Perform User Actions – Based on the selected option, the system performs operations like adding, viewing, or removing books.
+4. Save Changes Automatically – Any modifications made are immediately saved to the JSON file.
+5. Exit Safely – The program ensures data integrity before closing.
 
 
 
 # 📌 User Journey
-1️. Opening the System – The user is greeted with a welcome message and the main menu.
-2️. Adding a New Book – The user enters the book details, which are validated and stored.
-3️. Viewing Books – The user can see a structured list of all stored books.
-4️. Removing a Book – The user enters the ISBN of a book to delete it from the system.
-5️. Exiting the System – The program securely saves all data before closing.
+1. Opening the System – The user is greeted with a welcome message and the main menu.
+2. Adding a New Book – The user enters the book details, which are validated and stored.
+3. Viewing Books – The user can see a structured list of all stored books.
+4. Removing a Book – The user enters the ISBN of a book to delete it from the system.
+5. Exiting the System – The program securely saves all data before closing.
 
 
 
